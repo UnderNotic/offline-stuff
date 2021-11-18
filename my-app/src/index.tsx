@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import 'antd/dist/antd.css';
+import './styles/antdOverrights.css';
 import './styles/styles.scss';
 
 import Layout from './domain/Layout/Layout';
